@@ -12,9 +12,9 @@ A passionate Minecraft mod dev from the planet E-arth
 
 - 🧱 Contributing to [Mine-Pop!](https://www.curseforge.com/minecraft/mc-mods/mine-pop)
 
-- 💻 Working on several mods (such as [Among The Brutes](https://www.curseforge.com/minecraft/mc-mods/among-the-brutes))
+- 💻 Working on mods
 
-- 👨‍💻 All of my projects are available at: [pixeldreamstudios.github.io](https://pixeldreamstudios.github.io)
+- 👨‍💻 All projects: [pixeldreamstudios.github.io](https://pixeldreamstudios.github.io)
 
 - 📫 Reach me at: pixeldreamstudios21@gmail.com
 
